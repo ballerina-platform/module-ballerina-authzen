@@ -1,7 +1,7 @@
 [package]
 org = "ballerina"
 name = "authzen"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Ballerina"]
 keywords = ["authzen", "authorization", "access control", "PEP", "PDP", "Type/Connector", "Area/Security & Identity", "Name/AuthZEN"]
 repository = "https://github.com/ballerina-platform/module-ballerina-authzen"
